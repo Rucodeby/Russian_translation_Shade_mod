@@ -1,0 +1,24 @@
+{
+  "Shade:ReturnExhaustedToDeckAction": {
+    "TEXT": [
+      "Выберите карту и верните её в стопку добора"
+    ]
+  },
+  "Shade:ReturnExhaustedToHandAction": {
+    "TEXT": [
+      "Выберите карту и верните её в руку"
+    ]
+  },
+  "Shade:ExhaustFromDeckAction": {
+    "TEXT": [
+      "Выберите карту и сожгите её",
+      "Выберите ",
+      " карт и сожгите их"
+    ]
+  },
+  "Shade:PlayFromExhaustAction": {
+    "TEXT": [
+      "Выберите карту и разыграйте её"
+    ]
+  }
+}
